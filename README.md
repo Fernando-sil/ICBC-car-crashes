@@ -9,3 +9,5 @@ Cities in this analysis:
   . Richmond
   . Coquitlam
   . Surrey
+
+Please use nbviwer to visualize maps and plots

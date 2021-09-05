@@ -1,5 +1,5 @@
 # ICBC-car-crashes
-Car crashes data for main Lower Mainland cites in British Columbia, Canada
+Car crashes data for main Lower Mainland cities in British Columbia, Canada
 Cities in this analysis:
   . Vancouver
   . North Vancouver
